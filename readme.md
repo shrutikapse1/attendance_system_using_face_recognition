@@ -12,7 +12,7 @@
 - Type `pip install -r requirements.txt` in command prompt(this will install required package for project)
 - Create a `data`, `college_images` and `Attendance_Report` folder in a project folder.
 - Add `attendance.csv` in `Attendance_Report` folder.
-- open `main.py`, `student.py`, `train.py`, `help.py`, `face_recognitionl.py`, `developerl.py`, `haarcascade_frontalface_default`,`tempCodeRunnerFile.py`, `setup.py`, `classifier.xml`, `favicon.ico` in project folder
+- Add `main.py`, `student.py`, `train.py`, `help.py`, `face_recognitionl.py`, `developerl.py`, `haarcascade_frontalface_default`,`tempCodeRunnerFile.py`, `setup.py`, `classifier.xml`, `favicon.ico` in project folder
 - Create database and table in MYSQL workbench:
   Queries Used 
   - CREATE DATABASE face_recognition;
