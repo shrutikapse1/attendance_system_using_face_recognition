@@ -49,14 +49,14 @@
 - `Help Desk`
 - `Exit` 
 
-### Project flow & explaination
+### Project flow & explanation
 
 - After you run the project first of all register student face and other information so that system can identify student, so click on register Student Details
 - Register the student by filling details of `current course` and `student information`. It contains 5 buttons providing operation
   `Save`, `Update`,`Delete`,`Reset`,`Take Photo Sample`.  
   (To perform this operation database should be created whose queries mention in steps to follow section and connection code should be updated as mention in steps to follow section)
 
-- After clicking `Take Photo Sample` button. A camera window will pop up and it will detect your Face and take upto 100 Images and stored in the folder named `data`. more you give the image to system, the better it will perform while recognising the face.
+- After clicking `Take Photo Sample` button. A camera window will pop up and it will detect your Face and take upto 100 Images and stored in the folder named `data`.(For this you have to make `data` folder in project folder as mention in above section) . More you give the image to system, the better it will perform while recognising the face.
 
 - At right side of panel you can see saved information in database 
 
@@ -84,6 +84,6 @@
 
 - tkinter for whole GUI
 - OpenCV for taking images and face recognition (cv2.face.LBPHFaceRecognizer_create())
-  CSV, Numpy, Pandas, datetime etc. for other purposes.
+  CSV, Numpy, Pandas, datetime and many more for other purposes.
  
 
