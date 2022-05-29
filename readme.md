@@ -80,5 +80,10 @@
 
 [Desktop Application Link](https://drive.google.com/drive/folders/17bkaevr7t6f91EAtZG-fFj78Kpe-2s-H?usp=sharing)
 
+### TECHNOLOGY USED:
+
+- tkinter for whole GUI
+- OpenCV for taking images and face recognition (cv2.face.LBPHFaceRecognizer_create())
+  CSV, Numpy, Pandas, datetime etc. for other purposes.
  
 
